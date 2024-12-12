@@ -1,1 +1,1 @@
-In my newest project, this time, I took some PC / sound peripheral product sales to conduct Exploratory Data analysis (EDA) with MySQL and made an interactive dashboard with Power BI from the data I got.
+In my newest project, this time, I took some PC / sound peripheral product sales to conduct Exploratory Data Analysis (EDA) with MySQL and made an interactive dashboard with Power BI from the data I got.
